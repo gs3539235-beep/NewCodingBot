@@ -1,2 +1,2 @@
-# sithuortfolio
+# sithuportfolio
 new repositry 
